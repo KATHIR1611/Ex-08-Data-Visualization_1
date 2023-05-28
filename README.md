@@ -111,3 +111,67 @@ plt.show()
 ```
 
 # OUPUT
+
+Data Processing
+
+![](x1.png)
+
+![](x2.png)
+
+Handling and Removing Outliers
+
+![](x3.png)
+
+![](x4.png)
+
+Day of the week that has the highest total bill amount
+
+![](x5.png)
+
+Average tip amount given by smokers and non-smokers
+
+![](x6.png)
+
+The tip percentage vary based on the size of the dining party
+
+![](x7.png)
+
+Gender which tends to leave higher tips
+
+![](x8.png)
+
+Relationship between the total bill amount and the day of the week
+
+![](x9.png)
+
+Distribution of total bill amounts which vary across different time periods (lunch vs. dinner)
+
+![](x10.png)
+
+Dining party size group tends to have the highest average total bill amount
+
+![](x11.png)
+
+The distribution of tip amounts for each day of the week
+
+![](x12.png)
+
+The tip amount that vary based on the type of service (lunch vs. dinner)
+
+![](x13.png)
+
+Correlation between the total bill amount and the tip amount
+
+![](x14.png)
+
+
+
+
+
+
+
+
+# RESULT
+Thus the Data Visualization method is performed to the given data and to predict the outcome for the given question.
+
+
