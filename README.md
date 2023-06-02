@@ -115,7 +115,6 @@ sns.scatterplot(x="total_bill", y="tip", data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
 ```
-
 # Output
 
 Data Processing
@@ -169,8 +168,6 @@ The tip amount that vary based on the type of service (lunch vs. dinner)
 Correlation between the total bill amount and the tip amount
 
 ![](x14.png)
-
-
 
 # Result
 Thus the Data Visualization method is performed to the given data and to predict the outcome for the given question.
