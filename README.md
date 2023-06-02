@@ -159,13 +159,16 @@ Dining party size group tends to have the highest average total bill amount
 
 The distribution of tip amounts for each day of the week
 
+
 ![](x12.png)
 
 The tip amount that vary based on the type of service (lunch vs. dinner)
 
+
 ![](x13.png)
 
 Correlation between the total bill amount and the tip amount
+
 
 ![](x14.png)
 
